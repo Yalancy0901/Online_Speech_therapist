@@ -181,7 +181,7 @@ That is all techincal details about this project
 
 #### why we choose this project
 
-The main reason is that people visiting therapy centers for the first time they get pretty nervous and tend to fill the self assesment form with a pressure of others or in a dilemma. This leads to varying result and has a high chances of assigned to unrealated therapy. 
+The main reason is that people visiting therapy centers for the first time they get pretty nervous and tend to fill the self assesment form with a pressure of others or in a dilemma. This leads to varying result and has a high chances of assigned to unrealated therapy.So we have designed a interface to address this challenge.
 
 and especially in India, most of the hospitals doesn't even have their website , so We thought to develop this project now for only speech therapies , in future we expand  
     to multiple fields.
